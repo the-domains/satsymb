@@ -61,10 +61,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=_v2ROQjlEW8'
 title: Летний дождь и солнце в Москве. Summer rain and sun in Moscow
-datePublished: '2016-05-28T16:36:52.218Z'
-dateModified: '2016-05-28T16:36:51.730Z'
+datePublished: '2016-05-28T16:36:52.636Z'
+dateModified: '2016-05-28T16:36:52.398Z'
 sourcePath: _posts/2016-05-28-letnij-dozhd-i-solnce-v-moskve-summer-rain-and-sun-in-mosco.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
