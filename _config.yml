@@ -1,0 +1,14 @@
+layout_spectrum: 0.021444472251459956
+typography_spectrum: 0.7045412801671773
+color:
+  brandStrength: 0.6603141787927598
+  lightness: 0.5621704224031419
+  saturation: 0.0041117740329355
+  rhythmicContrast: 0.16087237559258938
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: satsymb
