@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Sergey Aleksandrovich
-    url: 'https://www.youtube.com/channel/UC1dnUaFibdpJAlVtci_GASw'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-05-30T19:44:35.397Z'
+sourcePath: _posts/2016-05-28-letnij-dozhd-i-solnce-v-moskve-summer-rain-and-sun-in-mosco.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=_v2ROQjlEW8'
 keywords:
   - duration
   - moscow
@@ -20,8 +13,13 @@ keywords:
   - roman
   - rammnina45manson
   - '2015'
-description: 'Люблю, когда дождь и солнце в Москве. Лето уже вот -вот.. I love when rainy and sunny in Moscow. Summer is comming..'
-inLanguage: en
+related: []
+author:
+  - name: Sergey Aleksandrovich
+    url: 'https://www.youtube.com/channel/UC1dnUaFibdpJAlVtci_GASw'
+    avatar: {}
+dateModified: '2016-05-30T19:44:35.140Z'
+title: Летний дождь и солнце в Москве. Summer rain and sun in Moscow
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=_v2ROQjlEW8&feature=applinks'
     type: ios
@@ -59,17 +57,21 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_v2ROQjlEW8'
-title: Летний дождь и солнце в Москве. Summer rain and sun in Moscow
-datePublished: '2016-05-28T16:40:06.076Z'
-dateModified: '2016-05-28T16:37:05.366Z'
-sourcePath: _posts/2016-05-28-letnij-dozhd-i-solnce-v-moskve-summer-rain-and-sun-in-mosco.md
-starred: false
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: I love when rainy and sunny in Moscow. Summer is comming..
+inLanguage: en
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_v2ROQjlEW8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_v2ROQjlEW8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_v2ROQjlEW8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+I love when rainy and sunny in Moscow. Summer is comming..
