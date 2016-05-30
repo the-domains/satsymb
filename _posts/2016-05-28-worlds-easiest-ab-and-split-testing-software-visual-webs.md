@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-30T19:44:49.886Z'
+datePublished: '2016-05-30T19:44:57.516Z'
 sourcePath: _posts/2016-05-28-worlds-easiest-ab-and-split-testing-software-visual-webs.md
 isBasedOnUrl: 'https://vwo.com/'
 keywords:
@@ -17,7 +17,7 @@ related: []
 author:
   - name: Sergey
     url: 'https://aboutme.google.com/u/0/#profile_photo'
-dateModified: '2016-05-30T19:44:49.651Z'
+dateModified: '2016-05-30T19:44:57.124Z'
 title: "World's Easiest A/B and Split Testing Software - Visual Website Optimizer."
 app_links: []
 publisher:
@@ -27,7 +27,7 @@ publisher:
   domain: vwo.com
 description: 'VWO is the easiest A/B, Split and Multivariate testing tool. Try a free 30-day trial to start optimizing your website for increased conversion rate and sales.'
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
