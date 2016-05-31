@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-30T19:44:35.397Z'
+datePublished: '2016-05-31T05:53:45.928Z'
 sourcePath: _posts/2016-05-28-letnij-dozhd-i-solnce-v-moskve-summer-rain-and-sun-in-mosco.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=_v2ROQjlEW8'
 keywords:
@@ -18,7 +18,7 @@ author:
   - name: Sergey Aleksandrovich
     url: 'https://www.youtube.com/channel/UC1dnUaFibdpJAlVtci_GASw'
     avatar: {}
-dateModified: '2016-05-30T19:44:35.140Z'
+dateModified: '2016-05-31T05:53:45.169Z'
 title: Летний дождь и солнце в Москве. Summer rain and sun in Moscow
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=_v2ROQjlEW8&feature=applinks'
@@ -64,7 +64,7 @@ publisher:
   domain: www.youtube.com
 description: I love when rainy and sunny in Moscow. Summer is comming..
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
