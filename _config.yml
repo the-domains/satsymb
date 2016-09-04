@@ -1,4 +1,3 @@
-layout_spectrum: 0.021444472251459956
 typography_spectrum: 0.7045412801671773
 color:
   brandStrength: 0.6603141787927598
@@ -11,4 +10,5 @@ color:
     - '#BDD684'
     - '#E2F0D6'
     - '#F6FFE0'
+layout_spectrum: 0.021444472251459956
 name: satsymb
